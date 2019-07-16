@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/tonystarkli/Google Drive/阿猫阿狗/编程/IOS/Vapor/CupcakeCorner/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
